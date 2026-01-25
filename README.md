@@ -16,6 +16,7 @@ I’m a logic-driven developer with a background in Process Technology and Publi
 - **Goal:** Develop a secure, high-concurrency backend for a single-game gambling platform.  
 - **Tech:** JavaScript, Node.js.  
 - **Key Feature:** Secure Random Number Generation (RNG) design and research into regulatory compliance.
+- - **Readiness** The website is set to be transitioned to be a live real cash gambling site.
 
 ---
 
