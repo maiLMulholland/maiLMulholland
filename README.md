@@ -17,8 +17,6 @@ I’m a logic-driven developer with a background in Process Technology and Publi
 - **Tech:** JavaScript, Node.js.  
 - **Key Feature:** Secure Random Number Generation (RNG) design and research into regulatory compliance.
 
-(Replace the `yourusername` placeholders above with your GitHub username so links point to the real repos.)
-
 ---
 
 ## 💻 Technical Toolbox
