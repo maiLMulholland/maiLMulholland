@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Michael Mulholland
 
 ### 🛠 Software Developer | Systems Thinker | CS50 Alumni
-I’m a logic-driven developer with a background in Process Technology and Public Safety. I focus on building systematic solutions that prioritize data integrity and efficient control flow. My transition from industrial systems to software engineering is driven by a passion for solving complex architectural puzzles.
+I’m a logic-driven developer with a background in Process Technology and Public Safety. I focus on building systematic solutions that prioritize data integrity and efficient control flow. My transition from industrial systems to software engineering is driven by a passion for for new ideas and my want to master code.
 
 ---
 
