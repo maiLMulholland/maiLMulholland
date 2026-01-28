@@ -30,7 +30,7 @@ I’m a logic-driven developer with a background in Process Technology and Publi
 ## 📊 Education & Background
 - **CS50's Introduction to Computer Science** — HarvardX (2025)  
 - **Associate Degree in Process Technology** — RCGC (2021)  
-- **Fun Fact:** Experience as a 911 Dispatcher taught me to write clean, accurate code under pressure.
+- **Fun Fact:** Experience as a 911 Dispatcher taught me to work and be calm under any pressure
 
 ---
 
